@@ -1,4 +1,4 @@
-# 30 Days of Python – Day 1
+# Day 1: 30 Days of Python Programming
 
 ## Exercise: Level 1
 - Check the Python version you are using
