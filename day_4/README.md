@@ -60,5 +60,6 @@ The area of a circle with radius 10 is 314 meters square.
 ## Notes
 These exercises focus on string manipulation, slicing, indexing, searching, joining, formatting, and basic arithmetic operations.
 
-<h2 style="margin-bottom:0;">Gurmad Harir</h2>
+<h2 style="margin-bottom:0; border-bottom:none;">Gurmad Harir</h2>
 <h3 style="margin-top:0;">January 6, 2026</h3>
+
