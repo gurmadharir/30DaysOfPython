@@ -40,4 +40,10 @@
   from the user and store them in corresponding variables.
 - Run help('keywords') in the Python shell or in your file to check Python reserved words.
 
-📌 This README is for reference and instructions only.
+## Notes
+These exercises introduce Python fundamentals such as variable declaration, data types, arithmetic operations, built in functions and user input handling. 
+
+**Gurmad Harir**
+January 4, 2026.
+
+
