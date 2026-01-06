@@ -44,6 +44,6 @@
 These exercises introduce Python fundamentals such as variable declaration, data types, arithmetic operations, built in functions and user input handling. 
 
 **Gurmad Harir**  
-January 6, 2026
+January 3, 2026
 
 
