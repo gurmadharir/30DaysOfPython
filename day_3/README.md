@@ -122,3 +122,9 @@
 4 1 4 16 64
 5 1 5 25 125
 ````
+
+## Notes
+These exercises reinforce core Python fundamentals such as variables, data types, arithmetic operations, and user input handling. 
+
+**Gurmad Harir**
+January 5, 2026.
