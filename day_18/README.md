@@ -2,7 +2,6 @@
 
 ## 📘 Level 1
 
----
 ### 1. Find the most frequent word in the following paragraph:
 
 ```python
@@ -60,8 +59,6 @@ points = ['-12', '-4', '-3', '-1', '0', '4', '8']
 
 ## 📗 Level 2
 
----
-
 ### 1. Write a pattern which identifies if a string is a **valid Python variable name**:
 
 ```
@@ -72,8 +69,6 @@ is_valid_variable('firstname')    # True
 ```
 
 ## 📕 Level 3
-
----
 
 ### 1. Clean the following text and then count the **three most frequent words**:
 
