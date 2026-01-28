@@ -1,5 +1,5 @@
 # =============================================================
-# Day 14: Higher Order Functions
+# Day 16: datetime Module
 # ==============================================================
 from datetime import datetime, date
 from time import strptime
